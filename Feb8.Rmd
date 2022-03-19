@@ -1,0 +1,192 @@
+---
+title: ''
+output:
+  html_document:
+    theme: cerulean
+  pdf_document: default
+---
+<!--
+Attachments: Cornerstone, Viacom, NY Feds
+-->
+
+<!-- Don't copy directly from R markdown; click "open in browser" and copy the HTML. Center image, unsubscribe, back to top -->
+
+<style>
+table {
+  width: 600px !important;
+}
+.superscript {vertical-align:super; font-size:60%}
+
+.anchor, .anchor:hover {
+  text-decoration: inherit; 
+  font-style: inherit; 
+  color: inherit; 
+  text-decoration: none
+}
+
+blockquote > p {
+  font-size: 14px;
+}
+
+blockquote li {
+  font-size: 14px;
+}
+
+.center-me {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+a {
+  text-decoration: underline;
+}
+
+</style>
+
+<a name="top" class="anchor"><img style="display: block; margin-left: auto; margin-right: auto" alt="CDSS Logo" src="http://bit.ly/CDSSLogo"></a>
+
+<br>
+
+<hr>
+
+<!-- CDSS Newsletter: CDSS T-Shirts, Cognitive Computing in Finance -->
+
+Hi Data Scientists,
+
+Hope you're having a great week! We have some exciting data science opportunities lined up for you. Check them out below! Also, stay tuned for the upcoming CDSS events and opportunities this spring!
+
+<hr>
+
+### Summary
+* <a href="#jobs">Job Opportunities:</a>
+    + Order (Previously Negotiatus) Data Scientist and Business Intelligence Analyst Positions
+    
+* <a href="#other">Other Opportunities:</a>
+    + [Columbia University Meet Morgan Stanley 2023 Summer Analyst Recruiting Events](https://www.morganstanley.com/people-opportunities/students-graduates)
+    + [Meta Data Challenge 2022](https://metadatachallenge2022.splashthat.com/)
+    
+* <a href="#aotw"> Article of the Week:</a> [How to handle Emoji ‘😄’ & Emoticon ‘ :-) ’ in text preprocessing?](https://medium.com/geekculture/text-preprocessing-how-to-handle-emoji-emoticon-641bbfa6e9e7)
+* <a href="#interview"> Interview Prep Question</a>
+<hr> 
+
+### <a name="jobs" class="anchor">Job Opportunities</a>
+
+#### Order (Previously Negotiatus) Data Scientist and Business Intelligence Analyst Positions
+
+Apply to gain hands-on experience in data science or business intelligence!
+
+>
+**Company Description ** <br>
+Headquartered in New York City, Negotiatus is a SaaS / FinTech company transforming the purchase and pay processes of businesses across a broad array of industries including fitness, retail, hospitality, cannabis, and healthcare.<br><br>
+**Data Science Job Description and Qualifications**<br>
+We are looking for a hands-on Data Scientist, who will be a key business partner to the operations department head.  Someone who will generate meaningful insights that will aid in internal prioritization decision making, as well as inform customer facing recommendations. An individual who understands that at the core of a decision making software company sits a world class analytics team.<br><br>
+- Experience with statistical software (e.g., R, Python, MATLAB) and database languages (e.g., SQL, Cypher)<br>
+- You have extensive experience working with an organization through rapid growth, including several rounds of fundraising<br>
+- You are analytical and focused on data-driven decision-making<br>
+- You are able to seamlessly navigate between high-level strategic and hands-on tactical work<br>
+- You possess strong communication and presentation skills and are able to effectively collaborate across departments and with external stakeholders<br>
+- You take pride in your focus on analytics best practices, process improvement and automation<br>
+- A plus if you have experience with implementation of recommendation engines<br> <br>
+**Business Intelligence Analyst Job Description and Qualifications**<br>
+We are looking for a hands-on Business Intelligence Analyst, who will be a key business partner to the Finance department head.  Someone who will generate meaningful insights that will aid in internal prioritization decision making, as well as inform customer facing recommendations. An individual who understands that at the core of a decision making software company sits a world class analytics team.<br><br>
+- You are a self-starter with strong logical reasoning skills and a well-rounded understanding of business intelligence<br>
+- You are a quick study in the business’ needs and objectives<br>
+-  have the unique ability to measure performance, financial risks, and customer experience and motivate a team to action<br>
+- You have a Bachelor's degree in a relevant field, advanced SQL knowledge, as well as proficiency with Excel and other business intelligence tools<br>
+- You possess strong critical-thinking and problem-solving skills as well as a high level of comfort with project management<br>
+- You’re confident interfacing with internal stakeholders at all levels, verbally and in writing, with superior attention to detail.<br><br>
+**What You’ll Receive**<br>
+- A competitive compensation package as well as stock options<br>
+- Robust medical, dental, vision, and wellness benefits<br>
+- Flexible time off and remote work policies<br>
+- Employer-sponsored 401(k)<br><br>
+**How to Apply**<br>
+To apply or seek more details, please email Tom Jaklitsch, Co-Founder and CTO of Order, at tom@order.com.
+
+<hr>
+
+### <a name="other" class="anchor">Other Opportunities</a>
+
+#### [Columbia University Meet Morgan Stanley 2023 Summer Analyst Recruiting Events](https://www.morganstanley.com/people-opportunities/students-graduates)
+
+Apply by Friday, Feb 4 2022 by 11:59pm ET.
+
+>
+**About The Morgan Stanley 2023 Summer Analyst Recruiting Events**<br>
+We invite current sophomores and freshmen to explore our 2023 Summer Analyst Recruiting Events. Please click the links in the titles below to register or apply for as many sessions as you like.<br><br>
+To learn more and discover more opportunities, please visit:
+https://www.morganstanley.com/people-opportunities/students-graduates <br><br>
+**Office Hours **<br>
+Wednesday, February 23 | 2:00 – 4:00pm EST<br>
+Please apply by clicking the link with the business you are interested in: <br><br>
+[Sales and Trading](https://morganstanley.tal.net/vx/brand-2/candidate/so/pm/1/pl/2/opp/12660-Sales-Trading-Coffee-Chats-at-Columbia-University/en-GB)<br><br>
+[Global Capital Markets](https://morganstanley.tal.net/vx/lang-en-GB/candidate/postings/8569)<br><br>
+[Investment Banking](https://morganstanley.tal.net/vx/lang-en-GB/candidate/postings/8551)<br><br>
+[Firm Strategy and Execution](https://morganstanley.tal.net/vx/lang-en-GB/candidate/postings/8598)<br><br>
+[Quant Finance](https://morganstanley.tal.net/vx/brand-2/candidate/so/pm/1/pl/2/opp/12629-Quantitative-Finance-Coffee-Chats-at-Columbia-University/en-GB)<br><br>
+[Research](https://morganstanley.tal.net/vx/brand-2/candidate/so/pm/1/pl/2/opp/12689-Fixed-Income-Research-Coffee-Chats-at-Columbia/en-GB)<br><br>
+[Investment Management](https://morganstanley.tal.net/vx/brand-2/candidate/so/pm/1/pl/2/opp/12729-2022-Investment-Management-Columbia-Coffee-Chats/en-GB)<br><br>
+*Some events are invite only. Should your application be selected, you will receive additional information prior to the event.
+
+#### [2022 Meta Data Challenge](https://metadatachallenge2022.splashthat.com/)
+
+Apply by Friday, March 18, 2022.
+
+>
+**About The Meta Data Challenge**<br>
+This virtual analytics training program is a chance for current sophomore students to work with and learn from Meta's Data Scientists and Data Engineers. Selected finalists will get mentored through an analytics project, receive recruitment guidance, attend skill-building workshops, and mock interviews. <br><br>
+**How to Apply**<br>
+Students should navigate to the event page linked below (powered by our event marketing partners, SplashThat) and follow the instructions provided. Each applicant will be asked to submit a resume and respond to a few quick questions.  [**Application Form Here.**](https://metadatachallenge2022.splashthat.com/)
+
+<hr>
+
+### <a name="aotw" class="anchor">[Article of the Week](https://medium.com/geekculture/text-preprocessing-how-to-handle-emoji-emoticon-641bbfa6e9e7 )</a>
+
+This author discusses the field of Natural Language Processing (NLP) and its growing power in Machine Learning (ML) and text analysis. In the growing age of emoticons and their complex interpretations, he explains how NLP algorithms might read emojis and shows the reader how they might integrate this knowledge into their own algorithms! 
+
+<hr>
+
+### <a name="interview" class="anchor">Interview Prep Question</a>
+
+Thank you for submitting brilliant answers! Visit [here](http://cdssatcu.com/interview-prep/) to check out what your peers have said and leave comments if you want to elaborate more. 
+
+**Question of the week:** <br>
+What are the differences between supervised and unsupervised learning?
+
+Submit your answer [here](https://forms.gle/Xg8dcTu5Cii5zrzs5).
+
+<hr>
+
+<a href="#top" class="center-me">Back To Top</a>
+<br>
+<hr>
+
+### <a name="eventsubmission" class="anchor">Submit Your Event to the CDSS Newsletter
+
+Got a tip on something cool in data science going on within Columbia or NYC? Drop [us](mailto:cdss_executives@columbia.edu) a line to include an event in a future edition of the newsletter! Please put "For CDSS Newsletter:" in the subject line of your email.
+
+<hr>
+
+### <a name="addcalendar" class="anchor">Add CDSS to Your Calendar
+
+We keep track of all the CDSS events on a calendar in case you like that kind of thing; here's how to add our events to your calendar:
+
+(The steps are specific to Google Calendar, the calendar you get with your LionMail, but it shouldn't be too much harder with other calendars.)
+
+1. Open up your Google Calendar.
+2. Find on the left side find where it says "Other calendars".
+3. From the dropdown, select "Add by URL".
+4. Paste the following URL: "https://calendar.google.com/calendar/ical/0mh1hj9bp1k0r0j3lpsu6u61nc%40group.calendar.google.com/public/basic.ics".
+
+<hr>
+
+
+The Columbia Data Science Society (CDSS) is an interdisciplinary society that promotes data science across both the Columbia University community and the New York City community. Our mission is to help students connect with each other, academics, and industry; learn the tools, techniques, and reality of data science; and practice their skills.
+
+Since we've got a great semester of workshops, tech talks, and engaging material to come, make sure you always get our updates by [joining our mailing list](https://listserv.cuit.columbia.edu/scripts/wa.exe?SUBED1=CDSS), [liking us on Facebook](https://www.facebook.com/cdsscu), [following us on Instagram](https://www.instagram.com/cdss_cu/), and [Twitter](https://twitter.com/DataColumbia)! (If you would like to unsubscribe, follow the same link and go to "CDSS Subscribers" section. We'll be sad to see you go!)
+
+
+<hr>
+
+<a href="https://listserv.cuit.columbia.edu/scripts/wa.exe?SUBED1=CDSS" class="center-me">Unsubscribe From Mailing List</a>
